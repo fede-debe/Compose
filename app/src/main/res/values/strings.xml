@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleTextCompose</string>
+    <string name="title_activity_composition_and_state">CompositionAndState</string>
+</resources>
